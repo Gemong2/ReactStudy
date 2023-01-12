@@ -1,8 +1,6 @@
-import React from "react";
-import { useEffect } from "react";
-import { useState } from "react";
+import React, { useEffect, useState } from "react"; //useEffect, useState 이용하기 위해
 
-const User = {
+const User = { //여기에 해당하는 이메일과 비밀번호가 있다면 로그인성공 알림표시 띄움, DB는 이용안하기 때문에
     email: 'test@example.com',
     pw: 'test22@@2'
 }
