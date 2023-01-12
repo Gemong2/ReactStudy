@@ -1,4 +1,5 @@
-import Register from './Register';
+import Register from "./Register";
+import React from "react";
 
 function App() {
   return (
