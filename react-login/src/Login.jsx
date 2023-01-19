@@ -52,9 +52,7 @@ export default function Login() {
     return (
         <div className="page">
             <div className="titleWrap">
-                이메일과 비밀번호를
-                <br />
-                입력해주세요
+                패밀링크
                 </div>
             <div className="contentWrap">
                 <div className="inputTitle">이메일 주소</div>
